@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [SAIL](http://sailab.kaist.ac.kr/)
 - 🌱 I’m currently learning **Text Summarization**
 - 📫 How to reach me: fxnnxc27@gmail.com  
+	
+
+![FXNNXC's github stats](https://github-readme-stats.vercel.app/api?username=fxnnxc&show_icons=true&hide_border=true) 
