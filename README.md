@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Multi-Obejctive Reinforcement Learning**
 - 📫 How to reach me: bjp032501@gmail.com  
 
+<kb>
+
 ![FXNNXC's github stats](https://github-readme-stats.vercel.app/api?username=fxnnxc&show_icons=true&hide_border=true) 
+
+</kb>
+
 
 # Repos 
 
