@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+- 👯 [Blog](https://jrc-park.tistory.com/)
 - 🔭 I’m currently working on [Statistical Articifial Intelligence Lab](http://sailab.kaist.ac.kr/)
 - 🌱 I’m currently learning **Multi-Obejctive Reinforcement Learning**
 - 📫 How to reach me: bjp032501@gmail.com  
