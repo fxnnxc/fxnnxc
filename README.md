@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 |Repos|type|information|
 |:--|:-:|:--|
-[Transformer + VAE based Text Summarization ](https://github.com/fxnnxc/text_summarization)|`NLP`|Applyhing VAE architecture to the transformer architecture| 
+[Text Summarization with modified transformer ](https://github.com/fxnnxc/text_summarization)|`NLP`|Applyhing VAE architecture to the transformer architecture| 
 |[Data Visualization Python Codes](https://github.com/fxnnxc/data/tree/main/visualize)|`DATA`|Data / NLP / Animation data visualization|
 |[MultiAgent Physical Environment](https://github.com/fxnnxc/pybullet_multiagent_follow_env)|`RL`|Pybullet Physical Environment|
 
