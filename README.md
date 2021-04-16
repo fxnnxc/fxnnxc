@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 |[Data Visualization Python Codes](https://github.com/fxnnxc/data/tree/main/visualize)|`DATA`|Data / NLP / Animation data visualization|
 |[MultiAgent Physical Environment](https://github.com/fxnnxc/pybullet_multiagent_follow_env)|`RL`|Pybullet Physical Environment|
 
-## 🌱 Study Together
+## 🌱 Work Together
 
 |Repos | Information |
 |:-:|:-:|
 |[Coding Study](https://github.com/fxnnxc/coding-Break-the-wall) | conding study with friends|
+|[Prediction of foreign film income profits](https://github.com/fxnnxc/Prediction-of-foreign-film-income-profits) | Project in `빅데이터청년인재`|
