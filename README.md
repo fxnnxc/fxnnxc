@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱**[Portfolio]**(https://www.notion.so/Bumjin-Park-96b2d8c3c97e41589ff6d1b07924e2de)
-- 🌱**[Resume]**(https://www.notion.so/Resume-Bumjin-Park-58957bd1565c422ab83c6162b5560078)
+- 🌱[Portfolio](https://www.notion.so/Bumjin-Park-96b2d8c3c97e41589ff6d1b07924e2de)
+- 🌱[Resume](https://www.notion.so/Resume-Bumjin-Park-58957bd1565c422ab83c6162b5560078)
 - 👯 [Tistory Blog](https://jrc-park.tistory.com/)
 - 🔭 I’m currently working on [Statistical Articifial Intelligence Lab](http://sailab.kaist.ac.kr/)
 - 🌱 I’m currently learning **Multi-Obejctive Reinforcement Learning**
