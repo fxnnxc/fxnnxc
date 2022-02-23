@@ -1,4 +1,4 @@
-### Hi there 👋
+## Bumjin Park
 
 <!--
 **fxnnxc/fxnnxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 👯 [Blog](https://jrc-park.tistory.com/)
-- 🔭 I’m currently working on [Statistical Articifial Intelligence Lab](http://sailab.kaist.ac.kr/)
-- 🌱 I’m currently learning **Multi-Obejctive Reinforcement Learning**
-- 📫 How to reach me: *bjp032501@gmail.com*  or *bumjin@kaist.ac.kr*
+- 🔭 Working : [Statistical Articifial Intelligence Lab](http://sailab.kaist.ac.kr/)
+- 🌱 Tags `Multi-Obejctive Reinforcement Learning`
+- 📫 email: *bjp032501@gmail.com*  or *bumjin@kaist.ac.kr*
 
 <!-- <kb>
 
