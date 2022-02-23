@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Multi-Obejctive Reinforcement Learning**
 - 📫 How to reach me: *bjp032501@gmail.com*  or *bumjin@kaist.ac.kr*
 
-<kb>
+<!-- <kb>
 
 ![FXNNXC's github stats](https://github-readme-stats.vercel.app/api?username=fxnnxc&show_icons=true&hide_border=true) 
 
-</kb>
+</kb> -->
 
-## 🌱 Research Repos
+## 🛹 Research
 
 |Repos|type|information|
 |:--|:-:|:--|
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 |[Data Visualization Python Codes](https://github.com/fxnnxc/data/tree/main/visualize)|`DATA`|Data / NLP / Animation data visualization|
 |[MultiAgent Physical Environment](https://github.com/fxnnxc/pybullet_multiagent_follow_env)|`RL`|Pybullet Physical Environment|
 
-## 🌱 Work Together
+## 🛹 Group
 
 |Repos | Information |
 |:-:|:-:|
