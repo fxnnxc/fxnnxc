@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 [Blog](https://jrc-park.tistory.com/)
 - 🔭 Working : [Statistical Articifial Intelligence Lab](http://sailab.kaist.ac.kr/)
 - 🌱 Tags `Multi-Obejctive Reinforcement Learning`
-- 📫 email: *bjp032501@gmail.com*  or *bumjin@kaist.ac.kr*
+- 📫 email: *bjp032501@gmail.com* 
 
 <!-- <kb>
 
@@ -26,17 +26,4 @@ Here are some ideas to get you started:
 
 </kb> -->
 
-## 🛹 Research
 
-|Repos|type|information|
-|:--|:-:|:--|
-[Text Summarization with modified transformer ](https://github.com/fxnnxc/text_summarization)|`NLP`|Applyhing VAE architecture to the transformer architecture| 
-|[Data Visualization Python Codes](https://github.com/fxnnxc/data/tree/main/visualize)|`DATA`|Data / NLP / Animation data visualization|
-|[MultiAgent Physical Environment](https://github.com/fxnnxc/pybullet_multiagent_follow_env)|`RL`|Pybullet Physical Environment|
-
-## 🛹 Group
-
-|Repos | Information |
-|:-:|:-:|
-|[Coding Study](https://github.com/fxnnxc/coding-Break-the-wall) | conding study with friends|
-|[Prediction of foreign film income profits](https://github.com/fxnnxc/Prediction-of-foreign-film-income-profits) | Project in `빅데이터청년인재`|
