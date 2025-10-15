@@ -1,4 +1,4 @@
-# Bumjin (Leo) Park
+# Leo Bumjin Park
 
 - **Blog** [[bumjini.gitub.io](https://bumjini.github.io/)]
 - 🔭 Ph.D. Student in KAIST [Statistical Articifial Intelligence Lab](http://sailab.kaist.ac.kr/)
